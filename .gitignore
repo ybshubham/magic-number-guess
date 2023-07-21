@@ -1,0 +1,5 @@
+build/
+dist/
+venv/
+magic_number_guess.egg-info/
+magic_number_guess/__pycache__
